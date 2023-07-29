@@ -18,6 +18,7 @@
     <ClCompile Include="ex3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="ex4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -30,5 +31,7 @@
     <ClCompile Include="ex7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+=======
+>>>>>>> ce106fee4b8fc8a29233ec5222ff04e730e6d76a
   </ItemGroup>
 </Project>

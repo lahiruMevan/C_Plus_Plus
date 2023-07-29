@@ -128,10 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ex3.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="ex4.cpp" />
     <ClCompile Include="ex5.cpp" />
     <ClCompile Include="ex6.cpp" />
     <ClCompile Include="ex7.cpp" />
+=======
+>>>>>>> ce106fee4b8fc8a29233ec5222ff04e730e6d76a
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
