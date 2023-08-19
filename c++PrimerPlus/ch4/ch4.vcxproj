@@ -76,6 +76,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <DisableSpecificWarnings>4996;%(DisableSpecificWarnings)</DisableSpecificWarnings>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -90,6 +91,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <DisableSpecificWarnings>4996;%(DisableSpecificWarnings)</DisableSpecificWarnings>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -127,15 +129,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="addpntrs.cpp" />
+    <ClCompile Include="address.cpp" />
+    <ClCompile Include="arraynew.cpp" />
     <ClCompile Include="arrayone.cpp" />
+    <ClCompile Include="arrstruc.cpp" />
+    <ClCompile Include="assgn_st.cpp" />
+    <ClCompile Include="choices.cpp" />
+    <ClCompile Include="delete.cpp" />
+    <ClCompile Include="init_ptr.cpp" />
     <ClCompile Include="instr1.cpp" />
     <ClCompile Include="instr3.cpp" />
+    <ClCompile Include="mixtypes.cpp" />
+    <ClCompile Include="newstruct.cpp" />
     <ClCompile Include="numstr.cpp" />
+    <ClCompile Include="pointer.cpp" />
+    <ClCompile Include="ptrstr.cpp" />
     <ClCompile Include="strings.cpp" />
     <ClCompile Include="strtype1.cpp" />
     <ClCompile Include="strtype2.cpp" />
     <ClCompile Include="strtype3.cpp" />
     <ClCompile Include="strtype4.cpp" />
+    <ClCompile Include="structur.cpp" />
+    <ClCompile Include="use_new.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
