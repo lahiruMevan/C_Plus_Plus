@@ -151,6 +151,7 @@
     <ClCompile Include="strtype3.cpp" />
     <ClCompile Include="strtype4.cpp" />
     <ClCompile Include="structur.cpp" />
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="use_new.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
