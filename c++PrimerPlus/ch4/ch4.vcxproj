@@ -137,6 +137,10 @@
     <ClCompile Include="assgn_st.cpp" />
     <ClCompile Include="choices.cpp" />
     <ClCompile Include="delete.cpp" />
+    <ClCompile Include="ex1.cpp" />
+    <ClCompile Include="ex2.cpp" />
+    <ClCompile Include="ex3.cpp" />
+    <ClCompile Include="ex4.cpp" />
     <ClCompile Include="init_ptr.cpp" />
     <ClCompile Include="instr1.cpp" />
     <ClCompile Include="instr3.cpp" />
@@ -152,6 +156,7 @@
     <ClCompile Include="strtype4.cpp" />
     <ClCompile Include="structur.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="test2.cpp" />
     <ClCompile Include="use_new.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
