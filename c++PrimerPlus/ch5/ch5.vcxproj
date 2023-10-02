@@ -127,9 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bigstep.cpp" />
+    <ClCompile Include="block.cpp" />
+    <ClCompile Include="compstr1.cpp" />
+    <ClCompile Include="equal.cpp" />
     <ClCompile Include="express.cpp" />
     <ClCompile Include="forloop.cpp" />
+    <ClCompile Include="formore2.cpp" />
+    <ClCompile Include="forstr1.cpp" />
+    <ClCompile Include="forstr2.cpp" />
     <ClCompile Include="num_test.cpp" />
+    <ClCompile Include="plus_one.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
