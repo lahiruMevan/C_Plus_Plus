@@ -130,14 +130,23 @@
     <ClCompile Include="bigstep.cpp" />
     <ClCompile Include="block.cpp" />
     <ClCompile Include="compstr1.cpp" />
+    <ClCompile Include="compstr2.cpp" />
+    <ClCompile Include="dowhile.cpp" />
     <ClCompile Include="equal.cpp" />
     <ClCompile Include="express.cpp" />
     <ClCompile Include="forloop.cpp" />
     <ClCompile Include="formore2.cpp" />
     <ClCompile Include="forstr1.cpp" />
     <ClCompile Include="forstr2.cpp" />
+    <ClCompile Include="nested.cpp" />
     <ClCompile Include="num_test.cpp" />
     <ClCompile Include="plus_one.cpp" />
+    <ClCompile Include="textin1.cpp" />
+    <ClCompile Include="textin2.cpp" />
+    <ClCompile Include="textin3.cpp" />
+    <ClCompile Include="textin4.cpp" />
+    <ClCompile Include="waiting.cpp" />
+    <ClCompile Include="while.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
