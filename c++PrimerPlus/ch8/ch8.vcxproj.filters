@@ -15,58 +15,49 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="calling.cpp">
+    <ClCompile Include="inline.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="protos.cpp">
+    <ClCompile Include="firstref.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="twoarg.cpp">
+    <ClCompile Include="secref.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="lotto.cpp">
+    <ClCompile Include="swaps.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="arrfun1.cpp">
+    <ClCompile Include="cubes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="arrfun2.cpp">
+    <ClCompile Include="strc_ref.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="arrfun3.cpp">
+    <ClCompile Include="strquote.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="arrfun4.cpp">
+    <ClCompile Include="filefunc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="strgfun.cpp">
+    <ClCompile Include="left.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="strhback.cpp">
+    <ClCompile Include="leftover.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="travel.cpp">
+    <ClCompile Include="funtemp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="structfun.cpp">
+    <ClCompile Include="twotemps.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="topfive.cpp">
+    <ClCompile Include="twoswap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="arrobj.cpp">
+    <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="recur.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ruler.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="fun_ptr.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="arfupt.cpp">
+    <ClCompile Include="choices.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

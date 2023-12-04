@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{60062416-6ed7-4d2d-8eec-eb13778d34e9}</ProjectGuid>
-    <RootNamespace>ch7</RootNamespace>
+    <ProjectGuid>{7679a86c-2c50-48d4-8172-1d91bea3ae03}</ProjectGuid>
+    <RootNamespace>ch8</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,24 +127,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="arfupt.cpp" />
-    <ClCompile Include="arrfun1.cpp" />
-    <ClCompile Include="arrfun2.cpp" />
-    <ClCompile Include="arrfun3.cpp" />
-    <ClCompile Include="arrfun4.cpp" />
-    <ClCompile Include="arrobj.cpp" />
-    <ClCompile Include="calling.cpp" />
-    <ClCompile Include="fun_ptr.cpp" />
-    <ClCompile Include="lotto.cpp" />
-    <ClCompile Include="protos.cpp" />
-    <ClCompile Include="recur.cpp" />
-    <ClCompile Include="ruler.cpp" />
-    <ClCompile Include="strgfun.cpp" />
-    <ClCompile Include="strhback.cpp" />
-    <ClCompile Include="structfun.cpp" />
-    <ClCompile Include="topfive.cpp" />
-    <ClCompile Include="travel.cpp" />
-    <ClCompile Include="twoarg.cpp" />
+    <ClCompile Include="choices.cpp" />
+    <ClCompile Include="cubes.cpp" />
+    <ClCompile Include="filefunc.cpp" />
+    <ClCompile Include="firstref.cpp" />
+    <ClCompile Include="funtemp.cpp" />
+    <ClCompile Include="inline.cpp" />
+    <ClCompile Include="left.cpp" />
+    <ClCompile Include="leftover.cpp" />
+    <ClCompile Include="secref.cpp" />
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="strc_ref.cpp" />
+    <ClCompile Include="strquote.cpp" />
+    <ClCompile Include="swaps.cpp" />
+    <ClCompile Include="twoswap.cpp" />
+    <ClCompile Include="twotemps.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
